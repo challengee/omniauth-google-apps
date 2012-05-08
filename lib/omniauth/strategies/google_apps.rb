@@ -1,5 +1,4 @@
 require 'omniauth-openid'
-require 'openid/gapps'
 
 module OmniAuth
   module Strategies
